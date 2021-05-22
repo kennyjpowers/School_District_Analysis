@@ -16,7 +16,7 @@ I have analyzed the grades across schools in a district and summarized them at b
     - New
         ![New School Summary](Resources/new_school_summary.png)
     - Only the Thomas High School numbers were affected.
-    - The the metrics for Thomas High School decreased slightly except the average reading score which increased very slightly.
+    - The metrics for Thomas High School decreased slightly except the average reading score which increased very slightly.
 - How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to the other schools?
     - Original Top Schools
         -![Original Top Schools](Resources/original_top_5.png)
